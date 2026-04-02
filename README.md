@@ -1,12 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:f59e0b&height=180&section=header&text=Harshiv%20Mehta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
-
-<p align="center">
-  <strong>B.Tech CSE Student</strong> | <strong>Full-Stack Developer</strong> | <strong>AI Enthusiast</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=Building+polished+full-stack+web+projects;Exploring+AI%2C+data%2C+and+product-focused+development;Creating+work+that+looks+good+and+works+well" alt="Typing animation" />
-</p>
+<img width="100%" src="./assets/profile-header.svg" alt="Harshiv Mehta profile header" />
 
 <p align="center">
   <a href="https://portfolio-website-drab-rho.vercel.app">Portfolio</a> |
@@ -22,9 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Harshiv-Mehta&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
-<p align="center">
-  Building polished web experiences, practical backend systems, and project work that feels real, useful, and easy to trust.
-</p>
+> Building polished web experiences, practical backend systems, and project work that feels real, useful, and easy to trust.
 
 ## About Me
 
@@ -52,10 +42,6 @@ I build practical web products with strong frontend presentation, useful backend
 | Route Planner | Data structures project focused on route planning and algorithmic thinking | [Code](https://github.com/Harshiv-Mehta/route-planner) |
 
 ## What I Like Building
-
-```text
-Frontend polish + backend logic + product thinking
-```
 
 - Responsive websites that feel clean and intentional
 - Full-stack apps with clear user flow and practical features
