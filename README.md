@@ -1,136 +1,103 @@
-# Hi, I'm Harshiv Mehta
+<h1 align="center">Harshiv Mehta</h1>
 
-`B.Tech CSE Student` `Full-Stack Developer` `AI Enthusiast`
+<p align="center">
+  B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
+</p>
 
-I build practical web products with a strong focus on clean UI, solid backend logic, and real-world usability. I'm currently pursuing Computer Science Engineering at DESPU University and working on projects across full-stack development, financial tools, e-commerce, and data-driven platforms.
+<p align="center">
+  <a href="https://portfolio-website-drab-rho.vercel.app">Portfolio</a> |
+  <a href="https://github.com/Harshiv-Mehta">GitHub</a> |
+  <a href="https://linkedin.com/in/harshiv-mehta">LinkedIn</a> |
+  <a href="mailto:Harshivmehta@gmail.com">Email</a> |
+  <a href="https://wa.me/919307053775">WhatsApp</a>
+</p>
 
-## Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-blue?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Current%20CGPA-8.24-1f8b4c?style=for-the-badge" alt="CGPA badge" />
+  <img src="https://img.shields.io/badge/Location-India-f59e0b?style=for-the-badge" alt="Location badge" />
+</p>
 
-- Live website: [portfolio-website-drab-rho.vercel.app](https://portfolio-website-drab-rho.vercel.app)
-- Portfolio repo: [github.com/Harshiv-Mehta/portfolio-website](https://github.com/Harshiv-Mehta/portfolio-website)
+## About Me
 
-## Resume Snapshot
+I build practical web products with strong frontend presentation, useful backend logic, and real-world product thinking. Right now I'm pursuing B.Tech in Computer Science and Engineering at DESPU University while building projects across social platforms, fintech, e-commerce, marketing websites, and price-comparison ideas.
 
-- Name: Harshiv Mehta
-- Location: India
-- Education: B.Tech in Computer Science and Engineering, DESPU University (2024-2028)
-- CGPA: 8.24
-- Current focus: Full-stack development, AI-powered products, and polished frontend experiences
+## Quick Snapshot
 
-## Technical Skills
+| Area | Details |
+|---|---|
+| Education | B.Tech in Computer Science and Engineering, DESPU University (2024-2028) |
+| Academic Performance | CGPA: 8.24 |
+| Current Focus | Full-stack development, AI-powered products, frontend quality, and system thinking |
+| Strengths | Problem solving, teamwork, fast learning, creativity |
+| Languages | English, Hindi, Marathi, Gujarati |
 
-### Languages
+## Portfolio And Live Work
+
+| Project | What It Shows | Links |
+|---|---|---|
+| Portfolio Website | Personal portfolio with resume-style sections, projects, and contact presence | [Live](https://portfolio-website-drab-rho.vercel.app) \| [Code](https://github.com/Harshiv-Mehta/portfolio-website) |
+| WhisperSpace | Anonymous social sharing platform with Node.js, Express, MongoDB, and deployable frontend flow | [Live](https://whisper-space-chi.vercel.app) \| [Code](https://github.com/Harshiv-Mehta/WhisperSpace-) |
+| SparkScale Marketing | Conversion-focused marketing site with polished frontend design and responsive sections | [Live](https://sparkscale-marketing.vercel.app) \| [Code](https://github.com/Harshiv-Mehta/sparkscale-marketing) |
+| FinGuard | AI-style financial safety net with FastAPI, SQLite, analytics, and dashboard logic | [Code](https://github.com/Harshiv-Mehta/finguard) |
+| Inhale Art Store | Boutique e-commerce storefront with catalog, auth flow, and admin-side experience | [Code](https://github.com/Harshiv-Mehta/inhaleart-store) |
+| Route Planner | Data structures project focused on route planning and algorithmic thinking | [Code](https://github.com/Harshiv-Mehta/route-planner) |
+
+## Technical Toolkit
+
+**Languages**  
 `C` `C++` `Java` `Python` `JavaScript`
 
-### Web Development
+**Web**  
 `HTML5` `CSS3` `Node.js` `Express.js` `FastAPI`
 
-### Databases
+**Databases**  
 `MongoDB` `SQL` `SQLite` `Firebase`
 
-### Tools and Platforms
-`Git` `GitHub` `Postman` `VS Code` `Vercel`
+**Tools**  
+`Git` `GitHub` `Postman` `VS Code` `Vercel` `Power BI`
 
-### Strengths
-`Problem Solving` `Teamwork` `Fast Learning` `Creativity`
+## Selected Highlights
 
-## Featured Projects
-
-### WhisperSpace
-Anonymous messaging platform built with a full-stack architecture.
-
-- Built secure user and message flows with Node.js, Express, MongoDB, and JavaScript
-- Focused on a smooth and intuitive user experience for anonymous interaction
-- Live: [whisper-space-chi.vercel.app](https://whisper-space-chi.vercel.app)
-- Code: [github.com/Harshiv-Mehta/WhisperSpace-](https://github.com/Harshiv-Mehta/WhisperSpace-)
-
-### ConnectLocal
-Vendor-farmer platform designed to connect local producers with buyers.
-
-- Worked on trusted identity and transaction flow ideas for community commerce
-- Designed the product around usability, trust, and practical local impact
-
-### QuickComm
-Quick commerce price comparison website.
-
-- Built a product concept around comparing prices across platforms
-- Combined web scraping, APIs, and frontend workflows for faster purchase decisions
-- Private working build: BASKETIQ
-
-### FinGuard
-AI financial safety net project with a Python backend and interactive dashboard.
-
-- Built with FastAPI, SQLite, SQLAlchemy, Chart.js, and testing support
-- Added transaction analysis, risk scoring, smart alerts, and simulation-focused features
-- Code: [github.com/Harshiv-Mehta/finguard](https://github.com/Harshiv-Mehta/finguard)
-
-### Inhale Art Store
-Boutique-style storefront for handmade resin jewelry and keepsakes.
-
-- Built responsive catalog, authentication flows, and admin-facing pages
-- Focused on product presentation, storefront UX, and practical shopping flows
-- Code: [github.com/Harshiv-Mehta/inhaleart-store](https://github.com/Harshiv-Mehta/inhaleart-store)
-
-### SparkScale Marketing
-Marketing website for a digital growth and branding agency.
-
-- Built a polished multi-section landing experience with responsive design and conversion-focused structure
-- Added scroll reveals, interactive counters, testimonials, and strong service presentation
-- Live: [sparkscale-marketing.vercel.app](https://sparkscale-marketing.vercel.app)
-- Code: [github.com/Harshiv-Mehta/sparkscale-marketing](https://github.com/Harshiv-Mehta/sparkscale-marketing)
-
-### Route Planner
-Data structures focused project for route planning logic.
-
-- Strengthened problem-solving and algorithmic thinking through graph and route-based work
-- Code: [github.com/Harshiv-Mehta/route-planner](https://github.com/Harshiv-Mehta/route-planner)
+- Built and shipped multiple live projects on Vercel, including my portfolio, WhisperSpace, and SparkScale Marketing.
+- Worked across both frontend-heavy websites and backend-driven apps, which helps me think in terms of complete product flow.
+- Explored AI, data science, NLP, and analytics through coursework, certifications, and project work.
+- Selected at the college level for Smart India Hackathon 2024.
 
 ## Experience
 
-### Creative Designer
+**Creative Designer**  
 YouTube Channels | 2023-2024
 
-- Designed thumbnails and banners for content creators
-- Supported branding and visual identity across multiple channels
-- Improved design consistency and audience-facing presentation
+- Designed thumbnails and banners for content creators.
+- Supported branding and visual identity across multiple channels.
+- Improved consistency in audience-facing presentation and content packaging.
 
-## Education
+## Relevant Certifications
 
-### DESPU University
-B.Tech in Computer Science and Engineering | 2024-2028
+These are the certifications most aligned with the kind of work I'm building toward:
 
-- CGPA: 8.24
+| Certification | Provider | Link |
+|---|---|---|
+| Software Engineering | Infosys | [View Certificate](./certifications/software-engineering-infosys.pdf) |
+| Agile Methodology | Infosys | [View Certificate](./certifications/agile-methodology-infosys.pdf) |
+| Introduction to Data Science | Infosys | [View Certificate](./certifications/introduction-to-data-science-infosys.pdf) |
+| Introduction to Natural Language Processing | Infosys | [View Certificate](./certifications/introduction-to-nlp-infosys.pdf) |
+| Introduction to AI Concepts | Microsoft | [View Certificate](./certifications/intro-to-ai-concepts-microsoft.pdf) |
+| Intro to Generative AI and Agents | Microsoft | [View Certificate](./certifications/intro-to-generative-ai-and-agents-microsoft.pdf) |
+| Data Analysis | Microsoft | [View Certificate](./certifications/data-analysis-microsoft.pdf) |
+| Power BI | Microsoft | [View Certificate](./certifications/power-bi-microsoft.pdf) |
 
-### Khalmadi Junior College
-Class 12 (HSC) | 2022-2024
+## Current Direction
 
-- Percentage: 63%
+I'm focused on becoming a stronger production-ready developer by improving backend architecture, sharpening frontend quality, and building projects that feel useful, polished, and easy to trust.
 
-### Vikhe Patil School
-Class 10 (CBSE) | 2022
+## GitHub Stats
 
-- Percentage: 80.80%
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshiv-Mehta&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
 
-## Achievements
-
-- Selected at college level for Smart India Hackathon 2024
-- Built multiple real-world portfolio projects across web, commerce, and fintech ideas
-- Shipped multiple live web projects on Vercel, including a personal portfolio, WhisperSpace, and SparkScale Marketing
-
-## Languages
-
-- English
-- Hindi
-- Marathi
-- Gujarati
-
-## Connect With Me
-
-- Email: [Harshivmehta@gmail.com](mailto:Harshivmehta@gmail.com)
-- GitHub: [github.com/Harshiv-Mehta](https://github.com/Harshiv-Mehta)
-- LinkedIn: [linkedin.com/in/harshiv-mehta](https://linkedin.com/in/harshiv-mehta)
-- WhatsApp: [wa.me/919307053775](https://wa.me/919307053775)
-
-## Current Goal
-
-I'm focused on building stronger production-ready projects, improving my system design and backend skills, and creating a GitHub profile that reflects both my technical growth and product mindset.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshiv-Mehta&layout=compact&hide_border=true" alt="Top languages" />
+</p>
