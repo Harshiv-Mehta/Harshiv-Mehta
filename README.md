@@ -12,8 +12,7 @@
   <a href="https://portfolio-website-drab-rho.vercel.app">Portfolio</a> |
   <a href="https://github.com/Harshiv-Mehta">GitHub</a> |
   <a href="https://linkedin.com/in/harshiv-mehta">LinkedIn</a> |
-  <a href="mailto:Harshivmehta@gmail.com">Email</a> |
-  <a href="https://wa.me/919307053775">WhatsApp</a>
+  <a href="mailto:Harshivmehta@gmail.com">Email</a>
 </p>
 
 <p align="center">
