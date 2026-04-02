@@ -134,6 +134,12 @@ I'm focused on becoming a stronger production-ready developer by improving backe
   <img src="https://streak-stats.demolab.com?user=Harshiv-Mehta&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub streak stats" />
 </p>
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshiv-Mehta/Harshiv-Mehta/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:2563eb,100:0f172a&height=110&section=footer" alt="Footer banner" />
 </p>
