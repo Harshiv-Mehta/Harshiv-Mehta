@@ -9,9 +9,9 @@
 
 ## About
 
-I am a B.Tech Computer Science and Engineering student at DESPU University with a strong interest in full-stack development, product thinking, and polished frontend work. I enjoy building projects that are visually clean, technically solid, and useful to real users.
+I am a B.Tech Computer Science and Engineering student at DESPU University focused on full-stack development, backend fundamentals, and high-quality frontend execution. I build projects end to end, from UI and user flow to APIs, persistence, and deployment.
 
-What stands out most in my work is the mix of frontend presentation and backend logic. I like building products end to end, from interface and user flow to APIs, data handling, and deployment.
+My goal is to become the kind of engineer who can ship clean, usable products with strong technical foundations.
 
 ## What I Am Focused On
 
@@ -25,37 +25,37 @@ What stands out most in my work is the mix of frontend presentation and backend 
 ### WhisperSpace
 Anonymous social sharing platform built with Node.js, Express, MongoDB, and JavaScript.
 
-- Built a clean anonymous posting and reply flow
-- Focused on usability, lightweight interaction, and deployable structure
+- Built anonymous posting and reply flows with a simple, low-friction user experience
+- Structured the project for deployment and full-stack feature delivery
 - [Live Demo](https://whisper-space-chi.vercel.app)
 - [Repository](https://github.com/Harshiv-Mehta/WhisperSpace-)
 
 ### FinGuard
 Financial safety net project built with FastAPI, SQLite, SQLAlchemy, and an interactive dashboard.
 
-- Worked on transaction analysis, risk scoring, alerts, and simulation-oriented features
-- Strengthened backend structure, API thinking, and data-focused product design
+- Implemented transaction analysis, risk scoring, and alert-oriented product features
+- Strengthened API design, backend organization, and data-driven decision flows
 - [Repository](https://github.com/Harshiv-Mehta/finguard)
 
 ### SparkScale Marketing
 Marketing website built for a digital growth and branding agency.
 
-- Designed a polished multi-section frontend with strong visual hierarchy
-- Focused on responsive behavior, conversion-oriented layout, and presentation quality
+- Built a polished multi-section frontend with strong hierarchy and brand presentation
+- Focused on responsiveness, conversion-oriented structure, and visual clarity
 - [Live Demo](https://sparkscale-marketing.vercel.app)
 - [Repository](https://github.com/Harshiv-Mehta/sparkscale-marketing)
 
 ### Inhale Art Store
 Boutique-style storefront for handmade resin jewelry and keepsakes.
 
-- Built customer-facing shopping flows, authentication-related screens, and admin-side pages
-- Focused on product presentation, storefront UX, and practical interface design
+- Built customer-facing storefront flows, authentication-related screens, and admin-side pages
+- Focused on product presentation, shopping UX, and practical interface design
 - [Repository](https://github.com/Harshiv-Mehta/inhaleart-store)
 
 ### Portfolio Website
 Personal portfolio website that presents my work, background, and project direction.
 
-- Designed to communicate both technical ability and presentation standards
+- Built to present my work with stronger communication, structure, and visual quality
 - [Live Website](https://portfolio-website-drab-rho.vercel.app)
 - [Repository](https://github.com/Harshiv-Mehta/portfolio-website)
 
@@ -78,8 +78,8 @@ CGPA: 8.24
 2023-2024
 
 - Designed thumbnails and banners for content creators
-- Helped improve visual identity and presentation across multiple channels
-- Built early hands-on experience in design quality, consistency, and audience-facing communication
+- Improved visual identity and presentation consistency across multiple channels
+- Built early hands-on experience in design quality and audience-facing communication
 
 ## Certifications
 
@@ -97,6 +97,7 @@ CGPA: 8.24
 - Selected at the college level for Smart India Hackathon 2024
 - Built and deployed multiple live web projects on Vercel
 - Comfortable working across both interface quality and backend logic
+- Interested in internships and opportunities where I can contribute, learn quickly, and build production-grade software
 
 ## GitHub Activity
 
