@@ -1,7 +1,7 @@
-<h1 align="center">Harshiv Mehta</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:f59e0b&height=180&section=header&text=Harshiv%20Mehta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
 
 <p align="center">
-  B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
+  <strong>B.Tech CSE Student</strong> | <strong>Full-Stack Developer</strong> | <strong>AI Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-blue?style=for-the-badge" alt="Focus badge" />
   <img src="https://img.shields.io/badge/Current%20CGPA-8.24-1f8b4c?style=for-the-badge" alt="CGPA badge" />
   <img src="https://img.shields.io/badge/Location-India-f59e0b?style=for-the-badge" alt="Location badge" />
+</p>
+
+<p align="center">
+  Building polished web experiences, practical backend systems, and project work that feels real, useful, and easy to trust.
 </p>
 
 ## About Me
@@ -43,6 +47,17 @@ I build practical web products with strong frontend presentation, useful backend
 | Inhale Art Store | Boutique e-commerce storefront with catalog, auth flow, and admin-side experience | [Code](https://github.com/Harshiv-Mehta/inhaleart-store) |
 | Route Planner | Data structures project focused on route planning and algorithmic thinking | [Code](https://github.com/Harshiv-Mehta/route-planner) |
 
+## What I Like Building
+
+```text
+Frontend polish + backend logic + product thinking
+```
+
+- Responsive websites that feel clean and intentional
+- Full-stack apps with clear user flow and practical features
+- AI, analytics, and data-oriented ideas that solve real problems
+- Portfolio projects that look good and also work properly
+
 ## Technical Toolkit
 
 **Languages**  
@@ -56,6 +71,15 @@ I build practical web products with strong frontend presentation, useful backend
 
 **Tools**  
 `Git` `GitHub` `Postman` `VS Code` `Vercel` `Power BI`
+
+## Current Focus Areas
+
+| Focus | Why It Matters To Me |
+|---|---|
+| Full-stack development | I want to build complete products, not just isolated screens |
+| Backend architecture | I'm improving how I structure APIs, databases, and project logic |
+| Frontend quality | I care about UI detail, responsiveness, and presentation |
+| AI and data concepts | They help me build smarter and more decision-oriented projects |
 
 ## Selected Highlights
 
@@ -95,9 +119,13 @@ I'm focused on becoming a stronger production-ready developer by improving backe
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshiv-Mehta&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshiv-Mehta&show_icons=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=334155" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshiv-Mehta&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshiv-Mehta&layout=compact&hide_border=true&title_color=2563eb&text_color=334155" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:2563eb,100:0f172a&height=110&section=footer" alt="Footer banner" />
 </p>
