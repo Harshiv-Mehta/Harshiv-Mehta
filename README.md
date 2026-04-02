@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=Building+polished+full-stack+web+projects;Exploring+AI%2C+data%2C+and+product-focused+development;Creating+work+that+looks+good+and+works+well" alt="Typing animation" />
+</p>
+
+<p align="center">
   <a href="https://portfolio-website-drab-rho.vercel.app">Portfolio</a> |
   <a href="https://github.com/Harshiv-Mehta">GitHub</a> |
   <a href="https://linkedin.com/in/harshiv-mehta">LinkedIn</a> |
@@ -16,6 +20,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-blue?style=for-the-badge" alt="Focus badge" />
   <img src="https://img.shields.io/badge/Current%20CGPA-8.24-1f8b4c?style=for-the-badge" alt="CGPA badge" />
   <img src="https://img.shields.io/badge/Location-India-f59e0b?style=for-the-badge" alt="Location badge" />
+  <img src="https://komarev.com/ghpvc/?username=Harshiv-Mehta&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -124,6 +129,10 @@ I'm focused on becoming a stronger production-ready developer by improving backe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshiv-Mehta&layout=compact&hide_border=true&title_color=2563eb&text_color=334155" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshiv-Mehta&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
